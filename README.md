@@ -18,9 +18,4 @@ Here are some ideas to get you started:
 <h3 align="center">Data-Driven SEO Meets Technical Precision</h3>
 <img align="right" alt="coding" width="400" sre="<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/a4075a6d-1cf0-4470-8573-1d0b5407c2b1"/>
 - 📫 How to reach me **bhujeldipson032@gmail.com**
-- 📄 Know about my experiences [https://app-na2.hubspot.com/academy/achievements/7cgpys2l/en/1/dipson-bhujel/seo](https://app-na2.hubspot.com/academy/achievements/7cgpys2l/en/1/dipson-bhujel/seo)
-- fun fact **i am funny**
-<p align="left">
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipsonseo&show_icons=true&locale=en" alt="dipsonseo" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipsonseo&" alt="dipsonseo" /></p>
+- 📄 Know about my experiences [https://app-na2.hubspot.com/academy/achievements/7cgpys2l/en/1/dipson-bhujel/seo](https://app-na2.hubspot.com/academy/achievements/7cgpys2l/en/1/dipson-bhujel/seo)- fun fact **i am funny**<p align="left"></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipsonseo&show_icons=true&locale=en" alt="dipsonseo" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipsonseo&" alt="dipsonseo" /></p>
